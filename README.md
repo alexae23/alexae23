@@ -15,7 +15,7 @@ to refine my algorithmic and analyzing skills.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-My contact info [![Linkedin][1.2]][1]
+My contact info [![LinkedIn][1.2]][1]
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
