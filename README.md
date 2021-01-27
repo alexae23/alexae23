@@ -22,7 +22,7 @@ to refine my algorithmic and analyzing skills.
 
 <br/>
 
-###### <div align="center">I N D U S T R I E S  O F  P R E V I O U S  P R O J E C T S</div>
+###### <div align="center">I N D U S T R I E S   O F   P R E V I O U S   P R O J E C T S</div>
 <div align="center">
 <img src=https://shields.io/badge/%F0%9F%9A%82-Public%20Transport-blue?style=for-the-badge alt=publicTransport style="margin-bottom: 5px;" /> 
 <!--<img src=https://shields.io/badge/%F0%9F%92%B0-Internet%20retail-yellow?style=for-the-badge alt=internetRetail style="margin-bottom: 5px;" />
