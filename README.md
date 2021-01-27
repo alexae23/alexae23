@@ -11,10 +11,10 @@ to refine my algorithmic and analyzing skills.
 <div align="center">
 <a href="https://linkedin.com/in/alexander-else-23772a134" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<!--</a>
-<a href="https://www.xing.com/profile/Christian_Binder111/cv" target="_blank">
+</a>
+<a href="https://www.xing.com/profile/Alexander_Else/cv" target="_blank">
 <img src=https://img.shields.io/badge/xing-0F8678.svg?&style=for-the-badge&logo=xing&logoColor=white alt=xing style="margin-bottom: 5px;" />
-</a>-->
+</a>
 <a href="https://github.com/alexae23" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -22,7 +22,7 @@ to refine my algorithmic and analyzing skills.
 
 <br/>
 
-###### <div align="center">Industries of previous projects</div>
+###### <div align="center">I N D U S T R I E S  O F  P R E V I O U S  P R O J E C T S</div>
 <div align="center">
 <img src=https://shields.io/badge/%F0%9F%9A%82-Public%20Transport-blue?style=for-the-badge alt=publicTransport style="margin-bottom: 5px;" /> 
 <!--<img src=https://shields.io/badge/%F0%9F%92%B0-Internet%20retail-yellow?style=for-the-badge alt=internetRetail style="margin-bottom: 5px;" />
@@ -31,9 +31,9 @@ to refine my algorithmic and analyzing skills.
 
 <br/>
 
-##### <div align="center">My tech stack</div>
+##### <div align="center">T E C H S T A C K</div>
 
-###### <div align="center">Main</div>
+###### <div align="center">M A I N</div>
 
 <div align="center">   
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" />
