@@ -5,7 +5,6 @@ I am really interested in learning new programming langauges and
 to refine my algorithmic and analyzing skills.
  
 - 🔭 I just finished my Bachelor-Thesis
-- 🌱 I’m currently learning Python
 - 🌱 I’m currently learning Flutter
 
 <br/>
